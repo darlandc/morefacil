@@ -1,0 +1,8 @@
+{
+  "name": "morefácil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "aeb9f0b6"
+}
